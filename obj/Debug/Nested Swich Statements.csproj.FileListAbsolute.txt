@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Nested Swich Statements\Nested Swich Statements\bin\Debug\Nested Swich Statements.exe.config
+C:\Users\Administrator\Desktop\Nested Swich Statements\Nested Swich Statements\bin\Debug\Nested Swich Statements.exe
+C:\Users\Administrator\Desktop\Nested Swich Statements\Nested Swich Statements\bin\Debug\Nested Swich Statements.pdb
+C:\Users\Administrator\Desktop\Nested Swich Statements\Nested Swich Statements\obj\Debug\Nested Swich Statements.exe
+C:\Users\Administrator\Desktop\Nested Swich Statements\Nested Swich Statements\obj\Debug\Nested Swich Statements.pdb
